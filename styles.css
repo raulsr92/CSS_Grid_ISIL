@@ -3,3 +3,17 @@ body {
     padding: 0;
     box-sizing: border-box;
   }
+
+
+header, footer{
+    width: 100%;
+    height: auto;
+    background: #DD0939;
+    padding: 30px;
+}
+
+main{
+    width: 100%;
+    height: auto;
+    background: #d26ded;
+}
