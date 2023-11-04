@@ -43,3 +43,13 @@ main{
     }
     
 }
+
+@media screen and  (max-width:414px){
+
+    .grid-01{
+        grid-template-columns: auto;
+        grid-template-rows: repeat(8, 80px);
+    }
+    
+}
+
