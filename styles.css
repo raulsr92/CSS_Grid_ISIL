@@ -33,6 +33,20 @@ main{
     background: #76D7C4;
 }
 
+/*==  CONTENEDOR GRID N° 02 ==*/
+
+.grid-02{
+    background: #A618CB;
+    padding: 10px;
+    display: grid;
+}
+
+.grid-02>div{
+    background: #F2D3FA;
+}
+
+
+
 /*==  MEDIA QUERIES: TABLETS ==*/
 
 @media screen and  (max-width:768px){
@@ -43,6 +57,8 @@ main{
     }
     
 }
+
+/*==  MEDIA QUERIES: SMARTPHONES ==*/
 
 @media screen and  (max-width:414px){
 
