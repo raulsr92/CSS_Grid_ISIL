@@ -39,6 +39,9 @@ main{
     background: #A618CB;
     padding: 10px;
     display: grid;
+    grid-template-columns: 25% 25% 25%;
+    grid-auto-rows: 100px;
+    
 }
 
 .grid-02>div{
