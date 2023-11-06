@@ -41,7 +41,9 @@ main{
     display: grid;
     grid-template-columns: 25% 25% 25%;
     grid-auto-rows: 100px;
-    
+    column-gap: 10px;
+    row-gap: 10px;
+    justify-content: center;   
 }
 
 .grid-02>div{
